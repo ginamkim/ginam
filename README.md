@@ -1,0 +1,2 @@
+# ginam
+deep-learning study
