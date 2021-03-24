@@ -1,2 +1,3 @@
-# ginam
-deep-learning study
+Pose Feature Correction
+
+pretrained weight file
